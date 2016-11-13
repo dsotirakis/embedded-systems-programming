@@ -83,7 +83,7 @@ QEMU is ready.
 <b> From now on, everytime someone tries to change sportwatch.c, must do the steps below:</b>
 
 -At prex-0.9.0 directory, enter:
-<code> make clean; make <code>
+<code> make clean; make </code>
 
 -When compilation is complete, enter: <code> mcopy -o prexos a: </code>
 

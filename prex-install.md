@@ -89,4 +89,4 @@ QEMU is ready.
 
 <code> qemu-system-i386 -localtime -fda ./prex-0.8.0.i386-pc.img </code>
 
-That opens the QEMU Console and runs the project.
+That opens the QEMU Console and runs the project...

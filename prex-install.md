@@ -60,7 +60,7 @@ They can be found [here](http://archive.debian.org/debian/pool/main/g/gcc-4.1/).
 
 
 
-<b> RUNNING ON QEMU <b>
+<b> RUNNING ON QEMU </b>
 
 For QEMU:
 

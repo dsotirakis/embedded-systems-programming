@@ -51,6 +51,6 @@ They can be found [here](http://archive.debian.org/debian/pool/main/g/gcc-4.1/).
 
 8. In the console, move to the prex-0.9.0 folder. Run:
 
-sudo apt install make 
+<code>sudo apt install make </code>
 ./configure --cc=gcc-4.1 --target=x86
 

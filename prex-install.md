@@ -56,7 +56,7 @@ They can be found [here](http://archive.debian.org/debian/pool/main/g/gcc-4.1/).
 
 9. Run: <code> make </code> and then <code> make clean </code>.
 
-<b> Note that the compilation and the Makefiles are already uploaded, and the C program is at /usr/sample/sportwatch.c. If for any reasons someone wants to build another project, then they must follow prex's website instructions or contact me.</b>
+Note that the compilation and the Makefiles are already uploaded, and the C program is at /usr/sample/sportwatch.c. If for any reasons someone wants to build another project, then they must follow prex's website instructions or contact me.
 
 
 

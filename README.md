@@ -17,4 +17,5 @@ Project Description:
 -The timer/chronometer change must not lose the values of both.
 
 
+Hou to use/install tutorial can be found [here](https://github.com/dsotirakis/embedded-systems-programming/blob/master/prex-install.md)
 
